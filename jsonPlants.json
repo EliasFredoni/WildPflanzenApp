@@ -1,0 +1,99 @@
+[
+    {
+      "name": "Acker-Minze",
+      "verwendung": "Kraut, Blätter",
+      "zubereitung": "Tee, Salat",
+      "inhaltsstoffe": "Ätherisches Öl (Menthol), Gerbstoffe, Flavonoide",
+      "heilung": "Für Magen und Darm, desinfizierend",
+      "image":  "../assets/ast.png"
+    },{
+      "name": "Ackerschachtelhalm",
+      "verwendung": "Frühe Triebe",
+      "zubereitung": "Tee",
+      "heilung": "Blutreinigung"
+    },{
+      "name": "Ackersenf",
+      "verwendung": "Kraut, Knospen, Blüten, Blätter, Samen",
+      "zubereitung": "Gemüse und Gewürz",
+      "heilung": "Fördert die Durchblutung, beschleunigt die Wundheilung, regt zudem den Stoffwechsel an",
+      "blüten": "Gelb"
+    },{
+      "name": "Alpen-Kratzdistel",
+      "verwendung": "Frühe Triebe",
+      "zubereitung": "Gemüse",
+      "blüten": "Weiß"
+    },{
+      "name": "Ackerdistel / Kratzdistel",
+      "verwendung": "Blätter, Triebe, Blüten, Wurzeln, Samen",
+      "zubereitung": "Tee, Salat",
+      "heilung": "Harntreibende Wirkung. Für Galle, Leber, Husten, zur Wundbehandlung, gegen Schmerzen oder Insektenstichen",
+      "blüten": "Purpur"
+    },{
+      "name": "Stumpfblättriger Ampfer",
+      "verwendung": "Blätter, Samen",
+      "zubereitung": "Gemüse, Salat, Gewürz",
+      "blüten":"Weiß"
+    },{
+      "name": "Bachbunge",
+      "verwendung": "Blätter",
+      "zubereitung": "Salat"
+    },{
+      "name": "Bach-Quellkraut",
+      "verwendung": "Stängel, Blätter",
+      "zubereitung": "Gemüse, Salat"
+    },{
+      "name": "Barbarakraut",
+      "verwendung": "Kraut",
+      "zubereitung": "Gemüse, Salat"
+    },{
+      "name": "Bärlauch",
+      "verwendung": "Ganze Pflanze",
+      "zubereitung": "Gemüse, Gewürz",
+      "blüten": "weiß"
+    },{
+      "name": "Bärwurz",
+      "verwendung": "Wurzel, Kraut",
+      "zubereitung": "Gewürz"
+    },{
+      "name": "Beifuß",
+      "verwendung": "Blätter",
+      "zubereitung": "Gewürz"
+    },{
+      "name": "Berufkräuter",
+      "verwendung": "Kraut",
+      "zubereitung": "Salat, Tee"
+    },{
+      "name": "Bibernellen",
+      "verwendung": "Wurzel",
+      "zubereitung": "Tee"
+    },{
+      "name": "Birken",
+      "verwendung": "Saft, junge Blätter",
+      "zubereitung": "Salat, Tee"
+    },{
+      "name": "Blutwurz",
+      "verwendung": "ganze Pflanze",
+      "zubereitung": "Tee"
+    },{
+      "name": "Borretsch",
+      "verwendung": "Blätter",
+      "zubereitung": "Salat, Gewürz"
+    },{
+      "name": "Großblütige Braunelle",
+      "verwendung": "Blätter, Blüte",
+      "zubereitung": "Salat"
+    },{
+      "name": "Breitwegerich",
+      "verwendung": "Blätter, Knospen",
+      "zubereitung": "Salat, Gewürz, Tee"
+    },{
+      "name": "Brennnessel",
+      "verwendung": "Blätter, Frühe Triebe",
+      "zubereitung": "Gemüse, Salat, Tee"
+    },{
+      "name": "Brunnenkresse",
+      "verwendung": "Ganze Pflanze",
+      "zubereitung": "Gemüse, Salat, Gewürz"
+    }
+  
+    ]
