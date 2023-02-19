@@ -1,3 +1,4 @@
 ﻿# WildPflanzenApp
-Eigegenproje
+Eigegnproject
+
 Erstellt mit React-Native und Expo 
